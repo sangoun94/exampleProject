@@ -68,9 +68,8 @@ class RestTemplateEXTest {
         //given
         RestTemplateEX mockedRest = mock(RestTemplateEX.class);
         //when
-        HttpHeaders header = mockedRest.createHeader("application/json");
-        when(mockedRest.createHeader("application/json")).thenReturn(new HttpHeaders());
         //then
+        when(mockedRest.createHeader("application/json")).thenReturn(new HttpHeaders());
 
     }
 
