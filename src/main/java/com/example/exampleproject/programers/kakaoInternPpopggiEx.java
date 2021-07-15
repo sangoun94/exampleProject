@@ -2,10 +2,10 @@ package com.example.exampleproject.programers;
 
 import java.util.Stack;
 
-public class JavaEx1 {
+public class kakaoInternPpopggiEx {
 
     public static void main(String[] args) {
-        JavaEx1 ex = new JavaEx1();
+        kakaoInternPpopggiEx ex = new kakaoInternPpopggiEx();
         int[][] board = {{0, 0, 0, 0, 0}, {0, 0, 1, 0, 3}, {0, 2, 5, 0, 1}, {4, 2, 4, 4, 2}, {3, 5, 1, 3, 1}};
         int[] moves = {1, 5, 3, 5, 1, 2, 1, 4};
 

@@ -1,4 +1,4 @@
-package com.example.exampleproject.structure;
+package com.example.exampleproject.util;
 
 import java.util.Stack;
 

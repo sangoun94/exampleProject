@@ -1,7 +1,7 @@
 package com.example.exampleproject.structure;
 
 
-import java.util.Stack;
+import com.example.exampleproject.util.StructureUtil;
 
 public class StackEX {
 
