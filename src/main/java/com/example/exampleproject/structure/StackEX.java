@@ -10,12 +10,12 @@ public class StackEX {
 
         StructureUtil structureUtil = new StructureUtil();
 
-        StringBuilder backwardsStringtoStack = structureUtil.getBackwardsString(str);
+//        StringBuilder backwardsStringtoStack = structureUtil.getBackwardsString(str);
         StringBuilder stringBuilder = new StringBuilder();
 
         String s = stringBuilder.append(str).reverse().toString();
 
-        System.out.println("backwardsString = " + backwardsStringtoStack);
+//        System.out.println("backwardsString = " + backwardsStringtoStack);
         System.out.println("s = " + s);
 
     }
