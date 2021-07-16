@@ -1,4 +1,4 @@
-package com.example.exampleproject.programers;
+package com.example.exampleproject.util;
 
 import java.util.Random;
 
