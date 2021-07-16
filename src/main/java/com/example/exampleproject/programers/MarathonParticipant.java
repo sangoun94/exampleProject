@@ -11,6 +11,7 @@ public class MarathonParticipant {
         String solution = marathonParticipant.solution(participant, completion);
         System.out.println(solution);
         System.out.println("solution = " + solution);
+        System.out.println();
     }
 
     public String solution(String[] participant, String[] completion) {
